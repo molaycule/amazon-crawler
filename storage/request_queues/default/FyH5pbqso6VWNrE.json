@@ -1,0 +1,9 @@
+{
+	"id": "FyH5pbqso6VWNrE",
+	"json": "{\"id\":\"FyH5pbqso6VWNrE\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFS5CJK&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFS5CJK&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFS5CJK&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 12, 64GB, Red - Unlocked (Renewed Premium)\",\"asin\":\"B09JFS5CJK\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-12-64GB-Red/dp/B09JFS5CJK/ref=sr_1_14?keywords=iphone&qid=1664078889&sr=8-14\",\"keyword\":\"iphone\",\"description\":\"Apple iPhone 12, 64GB, Red - Unlocked (Renewed Premium)\"},\"label\":\"OFFERS\"},\"handledAt\":\"2022-09-25T04:08:51.953Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFS5CJK&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFS5CJK&pc=dp"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "BBLJbwKHMdJ37oE",
+	"json": "{\"id\":\"BBLJbwKHMdJ37oE\",\"url\":\"https://www.amazon.com/Apple-iPhone-a1778-Unlocked-Renewed/dp/B079G8GR9J/ref=sr_1_16?keywords=iphone&qid=1664078889&sr=8-16\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-a1778-Unlocked-Renewed/dp/B079G8GR9J/ref=sr_1_16?keywords=iphone&qid=1664078889&sr=8-16\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-a1778-Unlocked-Renewed/dp/B079G8GR9J/ref=sr_1_16?keywords=iphone&qid=1664078889&sr=8-16\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 7 a1778, GSM Unlocked, 32GB (Renewed)\",\"asin\":\"B079G8GR9J\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-a1778-Unlocked-Renewed/dp/B079G8GR9J/ref=sr_1_16?keywords=iphone&qid=1664078889&sr=8-16\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:52.449Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-a1778-Unlocked-Renewed/dp/B079G8GR9J/ref=sr_1_16?keywords=iphone&qid=1664078889&sr=8-16",
+	"url": "https://www.amazon.com/Apple-iPhone-a1778-Unlocked-Renewed/dp/B079G8GR9J/ref=sr_1_16?keywords=iphone&qid=1664078889&sr=8-16"
+}

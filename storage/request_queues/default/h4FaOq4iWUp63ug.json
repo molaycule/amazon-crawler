@@ -1,0 +1,9 @@
+{
+	"id": "h4FaOq4iWUp63ug",
+	"json": "{\"id\":\"h4FaOq4iWUp63ug\",\"url\":\"https://www.amazon.com/Apple-iPhone-Generation-64GB-Black/dp/B08R98BFZS/ref=sr_1_9?keywords=iphone&qid=1664078889&sr=8-9\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-Generation-64GB-Black/dp/B08R98BFZS/ref=sr_1_9?keywords=iphone&qid=1664078889&sr=8-9\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-Generation-64GB-Black/dp/B08R98BFZS/ref=sr_1_9?keywords=iphone&qid=1664078889&sr=8-9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone SE, 64GB, Black - Fully Unlocked (Renewed Premium)\",\"asin\":\"B08R98BFZS\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-Generation-64GB-Black/dp/B08R98BFZS/ref=sr_1_9?keywords=iphone&qid=1664078889&sr=8-9\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:50.305Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-Generation-64GB-Black/dp/B08R98BFZS/ref=sr_1_9?keywords=iphone&qid=1664078889&sr=8-9",
+	"url": "https://www.amazon.com/Apple-iPhone-Generation-64GB-Black/dp/B08R98BFZS/ref=sr_1_9?keywords=iphone&qid=1664078889&sr=8-9"
+}

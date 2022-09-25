@@ -1,0 +1,9 @@
+{
+	"id": "4LQrJeqHt6dKbHR",
+	"json": "{\"id\":\"4LQrJeqHt6dKbHR\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPJ58KN&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPJ58KN&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPJ58KN&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 11, 256GB, Unlocked - Purple (Renewed)\",\"asin\":\"B07ZPJ58KN\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-11-256GB-Unlocked/dp/B07ZPJ58KN/ref=sr_1_13?keywords=iphone&qid=1664078889&sr=8-13\",\"keyword\":\"iphone\",\"description\":\"Just the right amount of everything. A new dual‑lens rear system captures more of what you see and love. The fastest chip ever in a smartphone and all‑day battery life let you do more and charge less. And the highest‑quality video in a smartphone, so your memories look better than ever.\"},\"label\":\"OFFERS\"},\"handledAt\":\"2022-09-25T04:08:52.212Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPJ58KN&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPJ58KN&pc=dp"
+}

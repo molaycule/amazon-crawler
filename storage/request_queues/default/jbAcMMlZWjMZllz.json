@@ -1,0 +1,9 @@
+{
+	"id": "jbAcMMlZWjMZllz",
+	"json": "{\"id\":\"jbAcMMlZWjMZllz\",\"url\":\"https://www.amazon.com/Apple-iPhone-12-Mini-White/dp/B09JFTT832/ref=sr_1_11?keywords=iphone&qid=1664078889&sr=8-11\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-12-Mini-White/dp/B09JFTT832/ref=sr_1_11?keywords=iphone&qid=1664078889&sr=8-11\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-12-Mini-White/dp/B09JFTT832/ref=sr_1_11?keywords=iphone&qid=1664078889&sr=8-11\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 12 Mini, 64GB, White - Unlocked (Renewed Premium)\",\"asin\":\"B09JFTT832\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-12-Mini-White/dp/B09JFTT832/ref=sr_1_11?keywords=iphone&qid=1664078889&sr=8-11\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:50.111Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-12-Mini-White/dp/B09JFTT832/ref=sr_1_11?keywords=iphone&qid=1664078889&sr=8-11",
+	"url": "https://www.amazon.com/Apple-iPhone-12-Mini-White/dp/B09JFTT832/ref=sr_1_11?keywords=iphone&qid=1664078889&sr=8-11"
+}

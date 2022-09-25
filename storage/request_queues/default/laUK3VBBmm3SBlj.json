@@ -1,0 +1,9 @@
+{
+	"id": "laUK3VBBmm3SBlj",
+	"json": "{\"id\":\"laUK3VBBmm3SBlj\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPKN6YR&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPKN6YR&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPKN6YR&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: 503 - Internal Server Error: <!--\\n        To discuss automated access to Amazon data please contact api-services-support@amazon.c\\n    at CheerioCrawler._parseResponse (C:\\\\Users\\\\magboola\\\\OneDrive - Inlaks Limited\\\\Documents\\\\Tutorials\\\\amazon-crawler\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\http-crawler.ts:586:19)\\n    at runMicrotasks (<anonymous>)\\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\\n    at async CheerioCrawler._runRequestHandler (C:\\\\Users\\\\magboola\\\\OneDrive - Inlaks Limited\\\\Documents\\\\Tutorials\\\\amazon-crawler\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\http-crawler.ts:430:28)\\n    at async wrap (C:\\\\Users\\\\magboola\\\\OneDrive - Inlaks Limited\\\\Documents\\\\Tutorials\\\\amazon-crawler\\\\node_modules\\\\@apify\\\\src\\\\index.ts:77:27)\"],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 11, 64GB, Black - Unlocked (Renewed)\",\"asin\":\"B07ZPKN6YR\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=sr_1_2?keywords=iphone&qid=1664078889&sr=8-2\",\"keyword\":\"iphone\",\"description\":\"\"},\"label\":\"OFFERS\"},\"handledAt\":\"2022-09-25T04:08:55.135Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPKN6YR&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B07ZPKN6YR&pc=dp"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qSh7CeHn1esx92s",
+	"json": "{\"id\":\"qSh7CeHn1esx92s\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFNMBWL&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFNMBWL&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFNMBWL&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 12 Pro, 128GB, Pacific Blue - Unlocked (Renewed Premium)\",\"asin\":\"B09JFNMBWL\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-12-Pro-Pacific/dp/B09JFNMBWL/ref=sr_1_3?keywords=iphone&qid=1664078889&sr=8-3\",\"keyword\":\"iphone\",\"description\":\"Apple iPhone 12 Pro, 128GB, Pacific Blue - Unlocked (Renewed Premium)\"},\"label\":\"OFFERS\"},\"handledAt\":\"2022-09-25T04:08:50.832Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFNMBWL&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFNMBWL&pc=dp"
+}

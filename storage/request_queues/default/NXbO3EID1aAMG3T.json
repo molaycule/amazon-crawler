@@ -1,0 +1,9 @@
+{
+	"id": "NXbO3EID1aAMG3T",
+	"json": "{\"id\":\"NXbO3EID1aAMG3T\",\"url\":\"https://www.amazon.com/Apple-iPhone-12-64GB-White/dp/B09JFD569T/ref=sr_1_10?keywords=iphone&qid=1664078889&sr=8-10\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-12-64GB-White/dp/B09JFD569T/ref=sr_1_10?keywords=iphone&qid=1664078889&sr=8-10\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-12-64GB-White/dp/B09JFD569T/ref=sr_1_10?keywords=iphone&qid=1664078889&sr=8-10\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 12, 64GB, White - Unlocked (Renewed Premium)\",\"asin\":\"B09JFD569T\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-12-64GB-White/dp/B09JFD569T/ref=sr_1_10?keywords=iphone&qid=1664078889&sr=8-10\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:48.320Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-12-64GB-White/dp/B09JFD569T/ref=sr_1_10?keywords=iphone&qid=1664078889&sr=8-10",
+	"url": "https://www.amazon.com/Apple-iPhone-12-64GB-White/dp/B09JFD569T/ref=sr_1_10?keywords=iphone&qid=1664078889&sr=8-10"
+}

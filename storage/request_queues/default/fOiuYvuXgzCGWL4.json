@@ -1,0 +1,9 @@
+{
+	"id": "fOiuYvuXgzCGWL4",
+	"json": "{\"id\":\"fOiuYvuXgzCGWL4\",\"url\":\"https://www.amazon.com/Apple-iPhone-Plus-Fully-Unlocked/dp/B07757LZ1J/ref=sr_1_6?keywords=iphone&qid=1664078889&sr=8-6\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-Plus-Fully-Unlocked/dp/B07757LZ1J/ref=sr_1_6?keywords=iphone&qid=1664078889&sr=8-6\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-Plus-Fully-Unlocked/dp/B07757LZ1J/ref=sr_1_6?keywords=iphone&qid=1664078889&sr=8-6\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 8 Plus, US Version, 64GB, Gold - Unlocked (Renewed)\",\"asin\":\"B07757LZ1J\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-Plus-Fully-Unlocked/dp/B07757LZ1J/ref=sr_1_6?keywords=iphone&qid=1664078889&sr=8-6\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:50.363Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-Plus-Fully-Unlocked/dp/B07757LZ1J/ref=sr_1_6?keywords=iphone&qid=1664078889&sr=8-6",
+	"url": "https://www.amazon.com/Apple-iPhone-Plus-Fully-Unlocked/dp/B07757LZ1J/ref=sr_1_6?keywords=iphone&qid=1664078889&sr=8-6"
+}

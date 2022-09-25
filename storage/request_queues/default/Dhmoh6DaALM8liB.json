@@ -1,0 +1,9 @@
+{
+	"id": "Dhmoh6DaALM8liB",
+	"json": "{\"id\":\"Dhmoh6DaALM8liB\",\"url\":\"https://www.amazon.com/Apple-iPhone-11-256GB-Unlocked/dp/B07ZPJ58KN/ref=sr_1_13?keywords=iphone&qid=1664078889&sr=8-13\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-11-256GB-Unlocked/dp/B07ZPJ58KN/ref=sr_1_13?keywords=iphone&qid=1664078889&sr=8-13\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-11-256GB-Unlocked/dp/B07ZPJ58KN/ref=sr_1_13?keywords=iphone&qid=1664078889&sr=8-13\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 11, 256GB, Unlocked - Purple (Renewed)\",\"asin\":\"B07ZPJ58KN\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-11-256GB-Unlocked/dp/B07ZPJ58KN/ref=sr_1_13?keywords=iphone&qid=1664078889&sr=8-13\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:51.405Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-11-256GB-Unlocked/dp/B07ZPJ58KN/ref=sr_1_13?keywords=iphone&qid=1664078889&sr=8-13",
+	"url": "https://www.amazon.com/Apple-iPhone-11-256GB-Unlocked/dp/B07ZPJ58KN/ref=sr_1_13?keywords=iphone&qid=1664078889&sr=8-13"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LM6WtGXFrv8v3eR",
+	"json": "{\"id\":\"LM6WtGXFrv8v3eR\",\"url\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=sr_1_2?keywords=iphone&qid=1664078889&sr=8-2\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=sr_1_2?keywords=iphone&qid=1664078889&sr=8-2\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=sr_1_2?keywords=iphone&qid=1664078889&sr=8-2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 11, 64GB, Black - Unlocked (Renewed)\",\"asin\":\"B07ZPKN6YR\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=sr_1_2?keywords=iphone&qid=1664078889&sr=8-2\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:47.761Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=sr_1_2?keywords=iphone&qid=1664078889&sr=8-2",
+	"url": "https://www.amazon.com/Apple-iPhone-11-64GB-Black/dp/B07ZPKN6YR/ref=sr_1_2?keywords=iphone&qid=1664078889&sr=8-2"
+}

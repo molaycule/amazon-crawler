@@ -1,0 +1,9 @@
+{
+	"id": "wpxlJYaJjEm6V3x",
+	"json": "{\"id\":\"wpxlJYaJjEm6V3x\",\"url\":\"https://www.amazon.com/Apple-iPhone-Fully-Unlocked-128/dp/B07PBYL71Z/ref=sr_1_1?keywords=iphone&qid=1664078889&sr=8-1\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-Fully-Unlocked-128/dp/B07PBYL71Z/ref=sr_1_1?keywords=iphone&qid=1664078889&sr=8-1\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-Fully-Unlocked-128/dp/B07PBYL71Z/ref=sr_1_1?keywords=iphone&qid=1664078889&sr=8-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone XR, US Version, 128GB, Blue - Unlocked (Renewed)\",\"asin\":\"B07PBYL71Z\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-Fully-Unlocked-128/dp/B07PBYL71Z/ref=sr_1_1?keywords=iphone&qid=1664078889&sr=8-1\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:50.030Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-Fully-Unlocked-128/dp/B07PBYL71Z/ref=sr_1_1?keywords=iphone&qid=1664078889&sr=8-1",
+	"url": "https://www.amazon.com/Apple-iPhone-Fully-Unlocked-128/dp/B07PBYL71Z/ref=sr_1_1?keywords=iphone&qid=1664078889&sr=8-1"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xsGwCP1PCg8WX1F",
+	"json": "{\"id\":\"xsGwCP1PCg8WX1F\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFTPQY1&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFTPQY1&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFTPQY1&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 12, 64GB, Blue - Unlocked (Renewed Premium)\",\"asin\":\"B09JFTPQY1\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-12-64GB-Blue/dp/B09JFTPQY1/ref=sr_1_15?keywords=iphone&qid=1664078889&sr=8-15\",\"keyword\":\"iphone\",\"description\":\"Apple iPhone 12, 64GB, Blue - Unlocked (Renewed Premium)\"},\"label\":\"OFFERS\"},\"handledAt\":\"2022-09-25T04:08:52.611Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFTPQY1&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B09JFTPQY1&pc=dp"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ADrQLjxZpxFCEkC",
+	"json": "{\"id\":\"ADrQLjxZpxFCEkC\",\"url\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B079G8GR9J&pc=dp\",\"loadedUrl\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B079G8GR9J&pc=dp\",\"uniqueKey\":\"https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B079G8GR9J&pc=dp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 7 a1778, GSM Unlocked, 32GB (Renewed)\",\"asin\":\"B079G8GR9J\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-a1778-Unlocked-Renewed/dp/B079G8GR9J/ref=sr_1_16?keywords=iphone&qid=1664078889&sr=8-16\",\"keyword\":\"iphone\",\"description\":\"This iPhone 7 is Certified Refurbished. It is 100% functional and in near perfect cosmetic condition with the possibility of a few light hair marks. It will NOT come in its original packaging but will include a certified cable and UL approved power adapter. Headsets, SIM card and manual are NOT included. This iPhone 7 is fully functional with T-Mobile, AT&T and all other GSM networks. It will NOT work on Sprint, Verizon, Boost, Virgin Mobile or any other CDMA network.\"},\"label\":\"OFFERS\"},\"handledAt\":\"2022-09-25T04:08:53.093Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B079G8GR9J&pc=dp",
+	"url": "https://www.amazon.com/gp/aod/ajax/ref=auto_load_aod?asin=B079G8GR9J&pc=dp"
+}

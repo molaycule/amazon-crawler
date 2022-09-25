@@ -1,0 +1,9 @@
+{
+	"id": "CgNSfoce0iHqVrl",
+	"json": "{\"id\":\"CgNSfoce0iHqVrl\",\"url\":\"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=iphone\",\"loadedUrl\":\"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=iphone\",\"uniqueKey\":\"https://www.amazon.com/s/ref=nb_sb_noss?field-keywords=iphone&url=search-alias%3Daps\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"keyword\":\"iphone\",\"label\":\"START\"},\"handledAt\":\"2022-09-25T04:08:47.506Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/s/ref=nb_sb_noss?field-keywords=iphone&url=search-alias%3Daps",
+	"url": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=iphone"
+}

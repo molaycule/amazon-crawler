@@ -1,0 +1,9 @@
+{
+	"id": "UR1o9siJbhLObfs",
+	"json": "{\"id\":\"UR1o9siJbhLObfs\",\"url\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Purple/dp/B011SDYBZW/ref=sr_1_8?keywords=iphone&qid=1664078889&sr=8-8\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Purple/dp/B011SDYBZW/ref=sr_1_8?keywords=iphone&qid=1664078889&sr=8-8\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Purple/dp/B011SDYBZW/ref=sr_1_8?keywords=iphone&qid=1664078889&sr=8-8\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 11, 64GB, Purple - Unlocked (Renewed Premium)\",\"asin\":\"B011SDYBZW\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-11-64GB-Purple/dp/B011SDYBZW/ref=sr_1_8?keywords=iphone&qid=1664078889&sr=8-8\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:49.729Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-11-64GB-Purple/dp/B011SDYBZW/ref=sr_1_8?keywords=iphone&qid=1664078889&sr=8-8",
+	"url": "https://www.amazon.com/Apple-iPhone-11-64GB-Purple/dp/B011SDYBZW/ref=sr_1_8?keywords=iphone&qid=1664078889&sr=8-8"
+}

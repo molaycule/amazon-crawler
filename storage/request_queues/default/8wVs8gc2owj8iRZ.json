@@ -1,0 +1,9 @@
+{
+	"id": "8wVs8gc2owj8iRZ",
+	"json": "{\"id\":\"8wVs8gc2owj8iRZ\",\"url\":\"https://www.amazon.com/Apple-iPhone-12-64GB-Red/dp/B09JFS5CJK/ref=sr_1_14?keywords=iphone&qid=1664078889&sr=8-14\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-12-64GB-Red/dp/B09JFS5CJK/ref=sr_1_14?keywords=iphone&qid=1664078889&sr=8-14\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-12-64GB-Red/dp/B09JFS5CJK/ref=sr_1_14?keywords=iphone&qid=1664078889&sr=8-14\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 12, 64GB, Red - Unlocked (Renewed Premium)\",\"asin\":\"B09JFS5CJK\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-12-64GB-Red/dp/B09JFS5CJK/ref=sr_1_14?keywords=iphone&qid=1664078889&sr=8-14\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:51.217Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-12-64GB-Red/dp/B09JFS5CJK/ref=sr_1_14?keywords=iphone&qid=1664078889&sr=8-14",
+	"url": "https://www.amazon.com/Apple-iPhone-12-64GB-Red/dp/B09JFS5CJK/ref=sr_1_14?keywords=iphone&qid=1664078889&sr=8-14"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LWo34iORQ0JBghx",
+	"json": "{\"id\":\"LWo34iORQ0JBghx\",\"url\":\"https://www.amazon.com/Apple-iPhone-Unlocked-Black-Refurbished/dp/B06XGJWTQG/ref=sr_1_12?keywords=iphone&qid=1664078889&sr=8-12\",\"loadedUrl\":\"https://www.amazon.com/Apple-iPhone-Unlocked-Black-Refurbished/dp/B06XGJWTQG/ref=sr_1_12?keywords=iphone&qid=1664078889&sr=8-12\",\"uniqueKey\":\"https://www.amazon.com/Apple-iPhone-Unlocked-Black-Refurbished/dp/B06XGJWTQG/ref=sr_1_12?keywords=iphone&qid=1664078889&sr=8-12\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"data\":{\"title\":\"Apple iPhone 7 Plus, US Version, 32GB, Jet Black - Unlocked (Renewed)\",\"asin\":\"B06XGJWTQG\",\"itemUrl\":\"https://www.amazon.com/Apple-iPhone-Unlocked-Black-Refurbished/dp/B06XGJWTQG/ref=sr_1_12?keywords=iphone&qid=1664078889&sr=8-12\",\"keyword\":\"iphone\"},\"label\":\"PRODUCT\"},\"handledAt\":\"2022-09-25T04:08:50.804Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.amazon.com/Apple-iPhone-Unlocked-Black-Refurbished/dp/B06XGJWTQG/ref=sr_1_12?keywords=iphone&qid=1664078889&sr=8-12",
+	"url": "https://www.amazon.com/Apple-iPhone-Unlocked-Black-Refurbished/dp/B06XGJWTQG/ref=sr_1_12?keywords=iphone&qid=1664078889&sr=8-12"
+}
